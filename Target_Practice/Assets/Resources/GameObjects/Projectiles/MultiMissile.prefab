@@ -158,7 +158,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84240a170bfda8e4daf7e76214e303b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 1.5
+  radius: 3
   power: 300
   damage: 10
   particlesToSpawn: Explosion
